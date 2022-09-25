@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "name": "Test_Bond",
+      "email": "Testing@gmail.com",
+      "contact": "99009900",
+      "address": "USA",
+      "id": 1
+    },
+    {
+      "name": "Mishti",
+      "email": "Mishti@gmail.com",
+      "contact": "99009900",
+      "address": "Australia",
+      "id": 2
+    },
+    {
+      "name": "James Bond",
+      "email": "Bond@007.com",
+      "contact": "0007",
+      "address": "USA",
+      "id": 3
+    }
+  ]
+}
