@@ -23,6 +23,7 @@ const Adduser = () => {
     setState({ ...state, [name]: value });
   };
   let navigate = useNavigate();
+  
   const handleSubmit = (e) => {
     e.preventDefault();
 

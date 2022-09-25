@@ -1,25 +1,32 @@
 {
   "user": [
     {
-      "name": "Test_Bond",
-      "email": "Testing@gmail.com",
-      "contact": "99009900",
-      "address": "USA",
-      "id": 1
-    },
-    {
       "name": "Mishti",
       "email": "Mishti@gmail.com",
       "contact": "99009900",
-      "address": "Australia",
+      "address": "H.no-84/1 Jaswant Nagar Qututbpur Rewari",
       "id": 2
     },
     {
-      "name": "James Bond",
-      "email": "Bond@007.com",
-      "contact": "0007",
-      "address": "USA",
-      "id": 3
+      "name": "Ajay",
+      "email": "Ajaychawariya34@gmail.com",
+      "contact": "8607073242",
+      "address": "H.no-84/1 Jaswant Nagar Qutubpur Rewari",
+      "id": 4
+    },
+    {
+      "name": "Testing",
+      "email": "kiranchoudhary1329@gmail.com",
+      "contact": "9467650408",
+      "address": "H.no-84/1 Jaswant Nagar Qututbpur Rewari",
+      "id": 5
+    },
+    {
+      "name": "Guddu",
+      "email": "Achawariya101@gmail.com",
+      "contact": "00000",
+      "address": "Rewari",
+      "id": 6
     }
   ]
 }

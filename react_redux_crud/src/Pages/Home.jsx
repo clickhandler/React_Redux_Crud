@@ -51,6 +51,7 @@ if(window.confirm("Are you sure wanted to delete  the user ?")){
 
   return (
     <div>
+    <h1>React Crud Application</h1>
    <div>
     <Button  onClick={()=>navigate("/adduser")} style={{ color:"white",backgroundColor:"green", margin: "10px" }} >Add User</Button>
     </div>
